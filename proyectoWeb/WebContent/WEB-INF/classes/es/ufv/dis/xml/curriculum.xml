@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <curriculum>
+        <datos_personales>
+            <nombre>Santiago</nombre>
+            <apellidos>López López</apellidos>
+            <telefono>91546464</telefono>
+            <correo>pepe@gmail.es</correo>
+        </datos_personales>	
+        <informacion_tecnica>
+            <titulo>grado en ingeniero informatico</titulo>
+            <idiomas>
+            	<idioma nivel="experto">Ingles</idioma>
+            	<idioma nivel="experto">Frances</idioma>
+            	<idioma nivel="experto">Aleman</idioma>
+            </idiomas>
+        </informacion_tecnica>	
+        <experiencia_laboral>
+            <trabajos>
+            	<empresa duracion="24"> Apple</empresa>
+            	<empresa duracion="24"> Google</empresa>
+            	<empresa duracion="24"> John Dere</empresa>
+            </trabajos>
+        </experiencia_laboral>
+    </curriculum>

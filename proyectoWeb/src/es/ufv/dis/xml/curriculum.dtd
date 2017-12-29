@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+        <!ELEMENT curriculum (datos , estudios , experiencia) >
+        <!ELEMENT datos (nombre,direccion,telefono,correo)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT direccion (#PCDATA)>
+        <!ELEMENT telefono (#PCDATA)>
+        <!ELEMENT correo (#PCDATA)>
+
+        <!ELEMENT estudios (universidad , carrera , notamedia , tituloPropio)>
+        <!ELEMENT universidad (#PCDATA)>
+        <!ELEMENT carrera (#PCDATA)>
+        <!ELEMENT notamedia (#PCDATA)>
+        <!ELEMENT tituloPropio (#PCDATA)>
+        <!ELEMENT experiencia (empresa)>
+        <!ELEMENT empresa (#PCDATA)>
